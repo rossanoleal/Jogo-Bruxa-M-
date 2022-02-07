@@ -1,5 +1,5 @@
 # Jogo-Bruxa-M-
-Utiliado como base o jogo do "Dinossauro Google", utilizando JavaScript puro. 
+Utilizado como base o jogo do "Dinossauro Google", utilizando JavaScript puro. 
 
 Este jogo foi feito através do p5.js Web Editor
 
